@@ -1,5 +1,5 @@
 <?php
 
-$string['pluginname'] = 'My first moodle plugin';
-$string['helloworld'] = 'Hello world!';
-$string['tool_demo'] = 'Tool demo';
+$string['pluginname'] = 'Scott';
+$string['index_nav_name'] = 'Home';
+$string['index_page_header'] = 'Home';
