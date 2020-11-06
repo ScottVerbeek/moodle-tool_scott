@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2020110504;
+$plugin->version   = 2020110505;
 $plugin->release   = 2020110500; // Match release exactly to version.
 $plugin->requires  = 2016052300;
 $plugin->component = 'tool_scott';
